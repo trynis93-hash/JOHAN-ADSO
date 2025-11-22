@@ -1,1 +1,1 @@
-modificacion
+SOLUCION DE CONFLICTO
