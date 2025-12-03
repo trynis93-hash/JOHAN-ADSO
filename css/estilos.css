@@ -1,0 +1,13 @@
+.bg-dark {
+    width: 150px;
+    height: 100px;
+    background-color: darkblue;
+    margin: 10px;
+}
+
+.bg-orange {
+    width: 150px;
+    height: 100px;
+    background-color: orange;
+    margin: 10px;
+}
