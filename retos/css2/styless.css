@@ -1,0 +1,22 @@
+#oprimir {
+    background-color: blue;
+    color: rgb(218, 23, 23);
+    width: 120px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 20px 40% 20px 40%;
+    margin: auto;
+}
+
+.card {
+    width: 300px;
+    border: 30px solid #4e0b0b;
+    margin: 30px auto;
+    padding: 30px;
+}
+.card2 {
+    background-color: #4b3535;
+    color:aqua;
+    text-align: center;
+    margin: 0 auto;
+}
